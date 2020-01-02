@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D439A6823BDB01B0023425A /* ExpansionImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D439A6723BDB01B0023425A /* ExpansionImageViewController.swift */; };
 		3D66EFA823BCCAB5004C34A3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D66EFA723BCCAB5004C34A3 /* AppDelegate.swift */; };
 		3D66EFAA23BCCAB5004C34A3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D66EFA923BCCAB5004C34A3 /* SceneDelegate.swift */; };
 		3D66EFAC23BCCAB5004C34A3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D66EFAB23BCCAB5004C34A3 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3D439A6723BDB01B0023425A /* ExpansionImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpansionImageViewController.swift; sourceTree = "<group>"; };
 		3D66EFA423BCCAB5004C34A3 /* SlideshowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideshowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D66EFA723BCCAB5004C34A3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D66EFA923BCCAB5004C34A3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				3D66EFA723BCCAB5004C34A3 /* AppDelegate.swift */,
 				3D66EFA923BCCAB5004C34A3 /* SceneDelegate.swift */,
 				3D66EFAB23BCCAB5004C34A3 /* ViewController.swift */,
+				3D439A6723BDB01B0023425A /* ExpansionImageViewController.swift */,
 				3D66EFAD23BCCAB5004C34A3 /* Main.storyboard */,
 				3D66EFB023BCCAB6004C34A3 /* Assets.xcassets */,
 				3D66EFB223BCCAB6004C34A3 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D439A6823BDB01B0023425A /* ExpansionImageViewController.swift in Sources */,
 				3D66EFAC23BCCAB5004C34A3 /* ViewController.swift in Sources */,
 				3D66EFA823BCCAB5004C34A3 /* AppDelegate.swift in Sources */,
 				3D66EFAA23BCCAB5004C34A3 /* SceneDelegate.swift in Sources */,
