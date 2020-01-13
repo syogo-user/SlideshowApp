@@ -14,6 +14,9 @@
 		3D66EFAF23BCCAB5004C34A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D66EFAD23BCCAB5004C34A3 /* Main.storyboard */; };
 		3D66EFB123BCCAB6004C34A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D66EFB023BCCAB6004C34A3 /* Assets.xcassets */; };
 		3D66EFB423BCCAB6004C34A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D66EFB223BCCAB6004C34A3 /* LaunchScreen.storyboard */; };
+		3DC1FA8523CD39810044FAE2 /* animalface_tanuki.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DC1FA8423CD39810044FAE2 /* animalface_tanuki.png */; };
+		3DC1FA8723CD398D0044FAE2 /* animalface_tora.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DC1FA8623CD398D0044FAE2 /* animalface_tora.png */; };
+		3DC1FA8923CD399B0044FAE2 /* animalface_usagi.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DC1FA8823CD399B0044FAE2 /* animalface_usagi.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		3D66EFB023BCCAB6004C34A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D66EFB323BCCAB6004C34A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D66EFB523BCCAB6004C34A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DC1FA8423CD39810044FAE2 /* animalface_tanuki.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = animalface_tanuki.png; sourceTree = "<group>"; };
+		3DC1FA8623CD398D0044FAE2 /* animalface_tora.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = animalface_tora.png; sourceTree = "<group>"; };
+		3DC1FA8823CD399B0044FAE2 /* animalface_usagi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = animalface_usagi.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +70,9 @@
 				3D439A6723BDB01B0023425A /* ExpansionImageViewController.swift */,
 				3D66EFAD23BCCAB5004C34A3 /* Main.storyboard */,
 				3D66EFB023BCCAB6004C34A3 /* Assets.xcassets */,
+				3DC1FA8423CD39810044FAE2 /* animalface_tanuki.png */,
+				3DC1FA8623CD398D0044FAE2 /* animalface_tora.png */,
+				3DC1FA8823CD399B0044FAE2 /* animalface_usagi.png */,
 				3D66EFB223BCCAB6004C34A3 /* LaunchScreen.storyboard */,
 				3D66EFB523BCCAB6004C34A3 /* Info.plist */,
 			);
@@ -128,6 +137,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3DC1FA8523CD39810044FAE2 /* animalface_tanuki.png in Resources */,
+				3DC1FA8723CD398D0044FAE2 /* animalface_tora.png in Resources */,
+				3DC1FA8923CD399B0044FAE2 /* animalface_usagi.png in Resources */,
 				3D66EFB423BCCAB6004C34A3 /* LaunchScreen.storyboard in Resources */,
 				3D66EFB123BCCAB6004C34A3 /* Assets.xcassets in Resources */,
 				3D66EFAF23BCCAB5004C34A3 /* Main.storyboard in Resources */,
