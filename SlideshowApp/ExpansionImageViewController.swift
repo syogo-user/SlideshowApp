@@ -17,14 +17,7 @@ class ExpansionImageViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         expansionImage.image = selectedImage
-        
         // Do any additional setup after loading the view.
-        
-        let width :CGFloat = selectedImage.size.width
-        let height :CGFloat = selectedImage.size.height
-        let rect: CGRect = CGRect(x:50,y:50,width:width * 1.5,height:height * 1.5)
-        expansionImage.frame = rect
-        expansionImage.center = CGPoint(x:150,y:330)
         
     }
     
