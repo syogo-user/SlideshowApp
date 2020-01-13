@@ -94,7 +94,7 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="114" y="138"/>
+            <point key="canvasLocation" x="112.8" y="137.18140929535232"/>
         </scene>
         <!--Expansion Image View Controller-->
         <scene sceneID="gda-EB-Ah9">
@@ -121,11 +121,11 @@
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="zMY-Fs-zZA" firstAttribute="bottom" secondItem="fCL-4u-bdA" secondAttribute="bottom" id="Be3-LM-DIw"/>
-                            <constraint firstItem="fCL-4u-bdA" firstAttribute="top" secondItem="zMY-Fs-zZA" secondAttribute="top" id="FaT-oG-ST0"/>
-                            <constraint firstItem="zMY-Fs-zZA" firstAttribute="trailing" secondItem="fCL-4u-bdA" secondAttribute="trailing" id="Q7F-kA-voF"/>
+                            <constraint firstItem="zMY-Fs-zZA" firstAttribute="bottom" secondItem="fCL-4u-bdA" secondAttribute="bottom" id="0nT-9e-fxM"/>
+                            <constraint firstItem="fCL-4u-bdA" firstAttribute="leading" secondItem="zMY-Fs-zZA" secondAttribute="leading" id="Z0A-xf-1Fd"/>
                             <constraint firstItem="c4D-Rd-Rz7" firstAttribute="leading" secondItem="zMY-Fs-zZA" secondAttribute="leading" constant="10" id="aIM-Uz-opT"/>
-                            <constraint firstItem="fCL-4u-bdA" firstAttribute="leading" secondItem="zMY-Fs-zZA" secondAttribute="leading" id="dsF-WN-coP"/>
+                            <constraint firstItem="zMY-Fs-zZA" firstAttribute="trailing" secondItem="fCL-4u-bdA" secondAttribute="trailing" id="gDS-0P-05t"/>
+                            <constraint firstItem="fCL-4u-bdA" firstAttribute="top" secondItem="zMY-Fs-zZA" secondAttribute="top" id="jaY-Ob-Eth"/>
                             <constraint firstItem="c4D-Rd-Rz7" firstAttribute="top" secondItem="zMY-Fs-zZA" secondAttribute="top" constant="10" id="kCb-ch-ndK"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="zMY-Fs-zZA"/>

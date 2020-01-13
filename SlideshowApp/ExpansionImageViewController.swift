@@ -17,19 +17,18 @@ class ExpansionImageViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         expansionImage.image = selectedImage
-        expansionImage.transform = CGAffineTransform(scaleX: 1.5, y: 1.5)
+        
         // Do any additional setup after loading the view.
-
+        
+        let width :CGFloat = selectedImage.size.width
+        let height :CGFloat = selectedImage.size.height
+        let rect: CGRect = CGRect(x:50,y:50,width:width * 1.5,height:height * 1.5)
+        expansionImage.frame = rect
+        expansionImage.center = CGPoint(x:150,y:330)
+        
     }
     
-//    @IBAction func big(_ sender: Any) {
-//        let width :CGFloat = selectedImage.size.width
-//        let height :CGFloat = selectedImage.size.height
-//        let rect: CGRect = CGRect(x:0,y:0,width:1000,height:1000)
-//        expansionImage.frame = rect;
-//        expansionImage.center = CGPoint(x:800,y:800)
-//        self.view.addSubview(expansionImage)
-//    }
+
     
     
 
